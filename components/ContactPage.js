@@ -154,6 +154,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     textAlign: 'justify',
     marginVertical: 20,
+    color: '#ff7c60',
   },
   contactText: {
     fontSize: 16,
